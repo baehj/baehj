@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=SOFT&text=C://hyunjungbae/coding/🐣&fontSize=45&fontColor=FEFEFF&color=000000&height=150&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=SOFT&text=C://baehyunjung/coding/🐣&fontSize=45&fontColor=FEFEFF&color=000000&height=150&animation=twinkling)
 
 <br>
 <br>

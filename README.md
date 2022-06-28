@@ -39,4 +39,3 @@
 <a href="https://motley-scarf-665.notion.site/BAE-S-W-Engineering-wiki-3c590e9a867e4f28bf8e027c4e249544"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Notion&logoColor=white&link=https://motley-scarf-665.notion.site/BAE-S-W-Engineering-wiki-3c590e9a867e4f28bf8e027c4e249544"/></a>&nbsp
 <a href="mailto:baehj211221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=baehj211221@gmail.com"/></a>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baehj)](https://github.com/baehj/github-readme-stats)

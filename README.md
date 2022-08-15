@@ -31,6 +31,6 @@
 <br>
 <p align="center"><b> C O N T A C T  _ M E  _ 👄 💭 </b></p> 
 <p align="center">
-<a href="https://velog.io/@baehj/about"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link="https://velog.io/@baehj/about"/></a>&nbsp
+<a href="https://velog.io/@baehj"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link="https://velog.io/@baehj"/></a>&nbsp
 <a href="mailto:baehj211221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=baehj211221@gmail.com"/></a>
 <p>
